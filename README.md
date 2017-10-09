@@ -4,10 +4,11 @@
 
 
 ## Changelog:
-> 2017.10.10
-> 
+> 2017.10.10<br>
 > 添加了两本Go编程书籍: Go Programming Blueprints 和 The Go Programming Language
 
+> 2017.10.15<br>
+> 更新了笔记
 
 ## Resource
 [免费的中文书籍索引](https://giscafer.gitbooks.io/front-end-manual/content/recommended_books/free-programming-books.html)
