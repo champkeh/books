@@ -1,2 +1,8 @@
 # books
-Recommend books for programmer
+这个仓库用来记录我感兴趣的、值得阅读的书籍，包括但不限于技术书籍。
+我会把阅读笔记记录在issue中保存
+
+---
+
+## Resource
+[免费的中文书籍索引](https://giscafer.gitbooks.io/front-end-manual/content/recommended_books/free-programming-books.html)
