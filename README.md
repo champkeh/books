@@ -10,6 +10,9 @@
 > 2017.10.15<br>
 > 更新了笔记
 
+> 2018.08.13<br>
+> 添加了一本关于Go并发的书籍: Concurrency in Go
+
 ## Resource
 [免费的中文书籍索引](https://giscafer.gitbooks.io/front-end-manual/content/recommended_books/free-programming-books.html)
 
