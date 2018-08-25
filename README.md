@@ -13,6 +13,9 @@
 > 2018.08.13<br>
 > 添加了一本关于Go并发的书籍: Concurrency in Go
 
+> 2018.08.25<br>
+> 添加了一本关于Go Web开发的数据: Go Web Programming
+
 ## Resource
 [免费的中文书籍索引](https://giscafer.gitbooks.io/front-end-manual/content/recommended_books/free-programming-books.html)
 
